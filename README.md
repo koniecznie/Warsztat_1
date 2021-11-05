@@ -1,2 +1,2 @@
 # Warsztat_1
-Programu konsolowy do zarządzania zadaniami: Tasks.
+>Program konsolowy do zarządzania zadaniami: Tasks.
